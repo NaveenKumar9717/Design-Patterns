@@ -1,0 +1,9 @@
+In this bad example, 
+the Invoice class has multiple 
+responsibilities: managing invoice data, 
+calculating total price, and saving the invoice to a file. 
+These should be separate concerns.
+
+
+
+
