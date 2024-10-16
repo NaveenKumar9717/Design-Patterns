@@ -62,7 +62,7 @@ class InvoiceFileSaver{
         } 
        
     }
-}
+};
 
 int main() {
     Invoice invoice("John Doe");
